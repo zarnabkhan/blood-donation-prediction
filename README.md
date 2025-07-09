@@ -27,8 +27,9 @@ This project predicts whether a person is likely to donate blood based on past d
 
 ## 📈 Results
 - Best model: Random Forest
-- Accuracy: XX%
-- Precision/Recall: XX%
+- Accuracy: 76%
+- Precision/Recall: 57%
+- ROC AUC Score: 0.7481
 
 ## 📌 Key Learnings
 - Importance of class balance in classification
